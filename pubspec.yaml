@@ -10,6 +10,7 @@ dependencies:
   flutter:
     sdk: flutter
   roslib: ^0.0.3
+  validators: ^2.0.0+1
 
 dev_dependencies:
   flutter_test:
